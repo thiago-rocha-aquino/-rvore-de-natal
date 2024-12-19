@@ -1,7 +1,4 @@
-/*!
-Happy Holidays 2023
-Copyright (c) 2023 by Wakana Y.K. (https://codepen.io/wakana-k/pen/ExrBQKq)
-*/
+
 "use strict";
 
 import * as THREE from "three";
